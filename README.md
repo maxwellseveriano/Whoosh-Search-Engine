@@ -23,7 +23,7 @@ Este repositório apresenta um motor de busca criado com Whoosh, implementando d
 
 ## Como usar
 
-1. Baixe o dataset desejado a partir do [link de download]([https://example.com/dataset](https://www.dropbox.com/scl/fi/0nrrbvh9rs2zo8magsoww/pan-plagiarism-corpus-2011.zip?rlkey=nrb7i7ko8vbze76gppnq6k41n&e=2&st=hdko4hxx&dl=0)) e salve na mesma pasta do projeto com o nome `dataset`.
+1. Baixe o [dataset](https://www.dropbox.com/scl/fi/0nrrbvh9rs2zo8magsoww/pan-plagiarism-corpus-2011.zip?rlkey=nrb7i7ko8vbze76gppnq6k41n&e=2&st=hdko4hxx&dl=0) e salve na mesma pasta do projeto com o nome `dataset`.
 
 2. Rode o script de indexação para preparar o índice:
 
